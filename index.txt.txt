@@ -1,7 +1,3 @@
 Lorem
 ipsum
 123456
-Lorem
-Lorem
-ipsum
-123456
