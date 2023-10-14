@@ -1,6 +1,2 @@
 Lorem
 ipsum
-dolor
-dolor
-sit
-amet
