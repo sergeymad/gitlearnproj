@@ -1,5 +1,6 @@
 Lorem
-ipsum 
+ipsum
 dolor
-sit 
+dolor
+sit
 amet
